@@ -1,0 +1,42 @@
+a:3:{s:4:"time";i:1465010147;s:3:"ttl";i:1;s:4:"data";s:1752:"<div class="col-md-6">
+    <div class="panel panel-default">
+    <!-- Default panel contents -->
+        <div class="panel-heading">
+            게시판 A-1            <div class="view-all pull-right">
+                <a href="http://ciboard.localhost/board/b-a-1" title="게시판 A-1">더보기 <i class="fa fa-angle-right"></i></a>
+            </div>
+        </div>
+
+        <!-- Table -->
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <tbody>
+                                    <tr>
+                        <td><a href="http://ciboard.localhost/post/3" title="hhhh">hhhh</a>
+                                                    </td>
+                        <td class="px80">11:51</td>
+                    </tr>
+                                    <tr>
+                        <td><a href="http://ciboard.localhost/post/2" title="dfdf">dfdf</a>
+                                                    </td>
+                        <td class="px80">11:50</td>
+                    </tr>
+                                    <tr>
+                        <td><a href="http://ciboard.localhost/post/1" title="test">test</a>
+                                                    </td>
+                        <td class="px80">11:47</td>
+                    </tr>
+                                    <tr>
+                        <td>게시물이 없습니다</td>
+                        <td class="px80"></td>
+                    </tr>
+                                    <tr>
+                        <td>게시물이 없습니다</td>
+                        <td class="px80"></td>
+                    </tr>
+                                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+";}
